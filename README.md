@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mayank23raj
+- 👋 Hi, I’m Mayank Raj
 - 👀 I’m interested in MCA
 - 🌱 I’m currently learning WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on ...
